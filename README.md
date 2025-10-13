@@ -36,7 +36,7 @@
 ---
 
 ### 📫 Contact
-- 💌 Email: [juny79@example.com](mailto:juny79@example.com)  
+- 💌 Email: [juny79@gmail.com](mailto:juny79@gmail.com)  
 - 🌐 Blog / Portfolio: [Soon Coming...]  
 - 🐙 GitHub: [github.com/juny79](https://github.com/juny79)
 
