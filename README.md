@@ -18,7 +18,7 @@
 `Linux` · `Window` · `Cisco` · `Docker` · `GitHub Actions` · `AWS` · `RDS` · `S3` · `MLflow` · `Airflow`
 
 📊 **Data / AI**  
-`SQL` · `Oracle` · `Python` · `Pandas` · `Scikit-learn` · `Pytorch' · `LLM` · `Streamlit` · `Vercel`
+`SQL` · `Oracle` · `Python` · `Pandas` · `Scikit-learn` · `Pytorch` · `LLM` · `Streamlit` · `Vercel`
 
 ---
 
