@@ -15,10 +15,10 @@
 
 ### ⚙️ Tech & Tools
 💡 **Infra / DevOps**  
-`Linux` · `Docker` · `GitHub Actions` · `AWS` · `RDS` · `S3` · `MLflow` · `Airflow`
+`Linux` · `Window` · `Cisco` · `Docker` · `GitHub Actions` · `AWS` · `RDS` · `S3` · `MLflow` · `Airflow`
 
 📊 **Data / AI**  
-`Python` · `Pandas` · `Scikit-learn` · `TensorFlow` · `LLM` · `Streamlit`  
+`SQL` · `Oracle` · `Python` · `Pandas` · `Scikit-learn` · `Pytorch' · `LLM` · `Streamlit` · `Vercel`
 
 ---
 
@@ -37,7 +37,7 @@
 
 ### 📫 Contact
 - 💌 Email: [juny79@gmail.com](mailto:juny79@gmail.com)  
-- 🌐 Blog / Portfolio: [Soon Coming...]  
+- 🌐 Blog / Portfolio: [https://blog.naver.com/bluecore_ai]  
 - 🐙 GitHub: [github.com/juny79](https://github.com/juny79)
 
 ---
