@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 50" width="100%" role="img" aria-label="Juny 소개 문구">
+  <g font-family="'Noto Sans KR','Malgun Gothic','Apple SD Gothic Neo',sans-serif"
+     font-size="22" font-weight="600" fill="#7C9CFF" text-anchor="middle">
+
+    <text x="300" y="32" opacity="0">🧘 명상가 | 🐾 고양이 집사
+      <animate attributeName="opacity" values="0;1;1;0;0"
+               keyTimes="0;.08;.30;.38;1" dur="9s" repeatCount="indefinite"/>
+    </text>
+
+    <text x="300" y="32" opacity="0">🖥️ 시스템 &amp; 네트워크 엔지니어
+      <animate attributeName="opacity" values="0;0;1;1;0;0"
+               keyTimes="0;.33;.41;.63;.71;1" dur="9s" repeatCount="indefinite"/>
+    </text>
+
+    <text x="300" y="32" opacity="0">🧠 AI 엔지니어로 급성장 중
+      <animate attributeName="opacity" values="0;0;1;1;0"
+               keyTimes="0;.66;.74;.96;1" dur="9s" repeatCount="indefinite"/>
+    </text>
+  </g>
+</svg>
