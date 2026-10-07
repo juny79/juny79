@@ -4,8 +4,8 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=gradient&customColorList=12,20,24&section=header&text=Hello%2C%20I'm%20Juny&fontSize=40&fontColor=ffffff&animation=fadeIn" width="100%" alt="header"/>
 
 <!-- 타이핑 효과 -->
-<img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+KR&weight=600&size=22&pause=1200&color=7C9CFF&center=true&vCenter=true&width=600&lines=Meditator+%7C+Cat+Butler;System+%26+Network+Engineer;Growing+into+an+AI+Engineer" alt="typing"/>
-<img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+KR&weight=600&size=22&pause=1200&color=7C9CFF&center=true&vCenter=true&width=600&lines=🧘+명상가+%7C+🐾+고양이+집사;🖥️+시스템+%26+네트워크+엔지니어;🧠+AI+엔지니어를+향해+성장+중" alt="typing"/>
+<img src="./assets/typing.svg" width="80%" alt="명상가 | 고양이 집사 | 시스템 & 네트워크 엔지니어 | AI 엔지니어"/>
+
 
 <!-- 중앙 히어로 -->
 <img src="./assets/hero.svg" width="100%" alt="명상하는 Juny와 고양이들"/>
