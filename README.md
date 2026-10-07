@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=gradient&customColorList=12,20,24&section=header&text=Hello%2C%20I'm%20Juny&fontSize=40&fontColor=ffffff&animation=fadeIn" width="100%" alt="header"/>
 
 <!-- 타이핑 효과 -->
-<img src="./assets/typing.svg" width="80%" alt="명상가 | 고양이 집사 | 시스템 & 네트워크 엔지니어 | AI 엔지니어"/>
+<img src="./assets/typing.svg" width="80%" alt="명상가 | 고양이 집사 | 시스템 & 네트워크 엔지니어 | AI 엔지니어로 급성장 중"/>
 
 
 <!-- 중앙 히어로 -->
