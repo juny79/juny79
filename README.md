@@ -6,7 +6,6 @@
 <!-- 타이핑 효과 -->
 <img src="./assets/typing.svg" width="80%" alt="명상가 | 고양이 집사 | 시스템 & 네트워크 엔지니어 | AI 엔지니어로 급성장 중"/>
 
-
 <!-- 중앙 히어로 -->
 <img src="./assets/hero.svg" width="100%" alt="명상하는 Juny와 고양이들"/>
 
